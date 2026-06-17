@@ -231,3 +231,10 @@ https://github.com/zhangjinke/osbdm_hpm5301_software
 
 ![](image/lambdpi2_top.png)
 ![](image/lambdpi2.png)
+
+
+## hpm6e8y-kit
+- 精简HPM6E00EVK，使用外置核心供电。没有完整地平面，不保证低EMI。只能作为4层单面，性价比开发板使用。
+
+- 仓库地址: [hpm6e8y-kit](https://oshwhub.com/hasaki6/hpm6e8y-kit)
+![](image/hpm6e8y-kit.png)
